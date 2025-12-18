@@ -73,7 +73,7 @@
             android:layout_width="40dp"
             android:layout_height="40dp"
             android:background="?attr/selectableItemBackgroundBorderless"
-            android:contentDescription="@string/cd_album_art"
+            android:contentDescription="@string/cd_favorite_toggle"
             android:src="@drawable/ic_favorite_border"
             app:tint="?attr/colorPrimary" />
 

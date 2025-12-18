@@ -58,6 +58,7 @@
     <string name="cd_play_pause">Play or Pause</string>
     <string name="cd_next_track">Next Track</string>
     <string name="cd_previous_track">Previous Track</string>
-    <string name="cd_shuffle_toggle">Toggle Shuffle</string>
-    <string name="cd_repeat_toggle">Toggle Repeat</string>
+    <string name="cd_shuffle_toggle">Turn shuffle on or off</string>
+    <string name="cd_repeat_toggle">Change repeat mode</string>
+    <string name="cd_favorite_toggle">Add to or remove from favorites</string>
 </resources>
